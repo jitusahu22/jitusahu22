@@ -1,67 +1,153 @@
-<h1 align="center">Hi 👋, I'm Jitendra</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Node.js;Building+Freight+%26+Transport+Systems;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00F7FF&height=200&section=header&text=Jitendra%20Sahu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20React%20%2B%20Django&descAlignY=55&descSize=18" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jitusahu22&label=Profile%20Views&color=0e75b6&style=flat" alt="jitusahu22" />
-  <a href="https://github.com/jitusahu22?tab=followers"><img src="https://img.shields.io/github/followers/jitusahu22?label=Followers&style=social" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;React+Developer;Django+Developer;Backend+Developer;SaaS+Builder;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=jitusahu22&label=Profile%20Views&color=0057FF&style=flat-square" />
+<a href="https://github.com/jitusahu22?tab=followers"><img src="https://img.shields.io/github/followers/jitusahu22?label=Followers&style=flat-square&color=0057FF" /></a>
 
-### 🚀 About Me
+</div>
 
-- 💻 Developer working across **Frontend & Backend**
-- 🏗️ Building a **React-based Freight & Transport Management System**
-- 🌱 Currently exploring new project ideas
-- 📍 Based in India
-- ⚡ Fun fact: I debug faster than I sleep
+## 👋 About Me
 
----
+I'm a **Software Developer** with **1.5+ years of experience** building scalable, attractive web applications. I work primarily with **React, JavaScript, Python, and Django**, and I've built **ERP systems** and **social web applications** end to end — frontend, backend, and everything in between.
 
-### 🛠️ Tech Stack
+My career goal is simple: keep becoming a more knowledgeable engineer by continuously learning and exploring emerging technologies.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
-</p>
+## 🎯 Current Focus
 
----
+<table align="center" width="100%">
+<tr>
+<td align="center">🚛<br/><b>ERP Systems</b></td>
+<td align="center">📦<br/><b>Inventory Management</b></td>
+<td align="center">☁️<br/><b>SaaS Applications</b></td>
+<td align="center">🤖<br/><b>AI Projects</b></td>
+<td align="center">🌐<br/><b>Open Source</b></td>
+<td align="center">💼<br/><b>Freelancing</b></td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jitusahu22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitusahu22&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitusahu22&theme=tokyonight&hide_border=true" />
-</p>
+### 🎨 Frontend
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitusahu22&theme=react-dark&hide_border=true" />
-</p>
+<table width="100%"><tr>
+<td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=react" /></td>
+<td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=html" /></td>
+<td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=css" /></td>
+<td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=tailwind" /></td>
+<td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=materialui" /></td>
+<td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=redux" /></td>
+</tr></table>
 
----
+### ⚙️ Backend
 
-### 🐍 Contribution Snake
+<table width="100%"><tr>
+<td width="25%" align="center"><img width="48" src="https://skillicons.dev/icons?i=django" /></td>
+<td width="25%" align="center"><img width="48" src="https://skillicons.dev/icons?i=nodejs" /></td>
+<td width="25%" align="center"><img width="48" src="https://skillicons.dev/icons?i=express" /></td>
+<td width="25%" align="center"><img width="48" src="https://skillicons.dev/icons?i=fastapi" /></td>
+</tr></table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jitusahu22/jitusahu22/output/github-contribution-grid-snake.svg" />
-</p>
+### 💻 Languages
 
----
+<table width="100%"><tr>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=python" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=js" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=ts" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=java" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=mysql" /></td>
+</tr></table>
 
-### 🌐 Connect with Me
+### 🗄️ Databases
 
-<p align="center">
-  <a href="https://linkedin.com/in/jitusahu22" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/jitusahu22" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<table width="100%"><tr>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=postgres" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=mongodb" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=mysql" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=sqlite" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=redis" /></td>
+</tr></table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=120&section=footer" />
-</p>
+### 🚀 DevOps
+
+<table width="100%"><tr>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=docker" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=aws" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=vercel" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=nginx" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=githubactions" /></td>
+</tr></table>
+
+### 🛠️ Tools
+
+<table width="100%"><tr>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=git" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=github" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=postman" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=vscode" /></td>
+<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=figma" /></td>
+</tr></table>
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jitusahu22&theme=tokyonight&hide_border=true" width="65%" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/jitusahu22/jitusahu22/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 🚛 Freight & Transport Management
+Full-stack platform for managing road transport operations — bookings, tracking, and logistics.
+`React` `Node.js` `MongoDB`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](#)
+
+</td>
+<td width="50%">
+
+### 📌 Project Name
+Short description of the project goes here.
+`Tech` `Stack` `Here`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](#)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](#)
+
+</td>
+</tr>
+</table>
+
+## 🤝 Let's Collaborate
+
+I'm open to collaborating on **Full Stack Projects** · **SaaS Products** · **ERP Development** · **Open Source** · **AI Applications**
+
+## 📬 Connect with Me
+
+<div align="center">
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0057FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=120&section=footer" width="100%" />
+
+</div>
