@@ -40,7 +40,7 @@ My career goal is simple: keep becoming a more knowledgeable engineer by continu
 <td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=css" /></td>
 <td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=tailwind" /></td>
 <td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=materialui" /></td>
-<td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=redux" /></td>
+<!-- <td width="16.6%" align="center"><img width="48" src="https://skillicons.dev/icons?i=redux" /></td> -->
 </tr></table>
 
 ### ⚙️ Backend
@@ -49,7 +49,7 @@ My career goal is simple: keep becoming a more knowledgeable engineer by continu
 <td width="25%" align="center"><img width="48" src="https://skillicons.dev/icons?i=django" /></td>
 <td width="25%" align="center"><img width="48" src="https://skillicons.dev/icons?i=nodejs" /></td>
 <td width="25%" align="center"><img width="48" src="https://skillicons.dev/icons?i=express" /></td>
-<td width="25%" align="center"><img width="48" src="https://skillicons.dev/icons?i=fastapi" /></td>
+<!-- <td width="25%" align="center"><img width="48" src="https://skillicons.dev/icons?i=fastapi" /></td> -->
 </tr></table>
 
 ### 💻 Languages
@@ -57,7 +57,7 @@ My career goal is simple: keep becoming a more knowledgeable engineer by continu
 <table width="100%"><tr>
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=python" /></td>
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=js" /></td>
-<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=ts" /></td>
+<!-- <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=ts" /></td> -->
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=java" /></td>
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=mysql" /></td>
 </tr></table>
@@ -69,16 +69,16 @@ My career goal is simple: keep becoming a more knowledgeable engineer by continu
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=mongodb" /></td>
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=mysql" /></td>
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=sqlite" /></td>
-<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=redis" /></td>
+<!-- <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=redis" /></td> -->
 </tr></table>
 
 ### 🚀 DevOps
 
 <table width="100%"><tr>
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=docker" /></td>
-<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=aws" /></td>
+<!-- <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=aws" /></td> -->
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=vercel" /></td>
-<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=nginx" /></td>
+<!-- <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=nginx" /></td> -->
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=githubactions" /></td>
 </tr></table>
 
@@ -89,7 +89,7 @@ My career goal is simple: keep becoming a more knowledgeable engineer by continu
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=github" /></td>
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=postman" /></td>
 <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=vscode" /></td>
-<td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=figma" /></td>
+<!-- <td width="20%" align="center"><img width="48" src="https://skillicons.dev/icons?i=figma" /></td> -->
 </tr></table>
 
 </div>
@@ -108,19 +108,15 @@ My career goal is simple: keep becoming a more knowledgeable engineer by continu
 
 ### 🚛 Freight & Transport Management
 Full-stack platform for managing road transport operations — bookings, tracking, and logistics.
-`React` `Node.js` `MongoDB`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](#)
+'React' 'Django Rest Framework' 'PostgreSQL' 'MUI'
 
 </td>
 <td width="50%">
 
 ### 📌 Project Name
-Short description of the project goes here.
-`Tech` `Stack` `Here`
+Full-stack platform for managing emplyees attendence, scheduling interview and job consulting.
+'React' 'Django Rest Framework' 'PostgreSQL' 'MUI'
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](#)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](#)
 
 </td>
 </tr>
@@ -134,14 +130,19 @@ I'm open to collaborating on **Full Stack Projects** · **SaaS Products** · **E
 
 <div align="center">
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0057FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/jitendra-sahu-in06042001/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0057FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:jitusahuu2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=120&section=footer" width="100%" />
 
 </div>
