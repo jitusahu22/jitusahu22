@@ -94,12 +94,6 @@ My career goal is simple: keep becoming a more knowledgeable engineer by continu
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jitusahu22&theme=tokyonight&hide_border=true" width="65%" />
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
